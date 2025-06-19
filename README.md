@@ -61,7 +61,7 @@ This section provides a high-level overview of the analytical workflow and deliv
 
 ### Working of Data Analyzing & Modeling
 
-Forecasting was conducted at multiple levels—including overall revenue, product categories, and regional segments—using metrics such as Absolute Error (ABS), Percentage Error, and Mean Absolute Percentage Error (MAPE) to evaluate accuracy and guide model refinement.
+Forecasting was performed across overall, product, and regional levels using ABS, Percentage Error, and MAPE to evaluate and improve model accuracy.
 
 ![Working of Data Analyzing   Modeling](https://github.com/user-attachments/assets/0da027b2-a97d-4349-8d78-e113db0e4a98)
 
