@@ -63,9 +63,13 @@ This section provides a high-level overview of the analytical workflow and deliv
 
 Forecasting was conducted at multiple levels—including overall revenue, product categories, and regional segments—using metrics such as Absolute Error (ABS), Percentage Error, and Mean Absolute Percentage Error (MAPE) to evaluate accuracy and guide model refinement.
 
+![Working of Data Analyzing   Modeling](https://github.com/user-attachments/assets/0da027b2-a97d-4349-8d78-e113db0e4a98)
+
 ### Data Visualization Preview
 
 A series of line charts were developed to depict sales trends over time by product (Mobile Plan, SMS Pack, Data Pack, Broadband), providing a clear visual summary of forecasting results to aid strategic decision-making.
+
+![Data Visualization Preview](https://github.com/user-attachments/assets/7f30415f-aec9-45a6-a118-f08961279f6f)
 
 ---
 
